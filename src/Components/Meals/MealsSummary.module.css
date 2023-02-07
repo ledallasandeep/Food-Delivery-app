@@ -16,3 +16,12 @@
     font-size: 2rem;
     margin-top: 0;
   }
+
+  .summ{
+    font-family: cursive;
+    color: goldenrod;
+}
+
+.summary p{
+  font-style: italic;
+}
